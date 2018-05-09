@@ -16,4 +16,3 @@ BRANDS = []
   end
 
 end
-end
