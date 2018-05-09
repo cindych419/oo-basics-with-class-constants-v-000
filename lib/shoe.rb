@@ -7,7 +7,7 @@ BRANDS = []
   def initialize(brand)
 
     @brand = brand
-    BRANDS << brand
+    BRANDS << brand.size="3"
   end
 
   def cobble
@@ -17,5 +17,5 @@ BRANDS = []
 
 def clear
   self.BRANDS.size?
-end 
+end
 end
