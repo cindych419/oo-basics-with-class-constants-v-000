@@ -16,6 +16,6 @@ BRANDS = []
   end
 
 def clear
-  self.BRANDS.size?=3
+  self.BRANDS.size?
 end 
 end
