@@ -7,7 +7,7 @@ BRANDS = []
   def initialize(brand)
 
     @brand = brand
-    BRANDS << brand if self.size = 3
+    BRANDS << brand if self.brand.size = 3
   end
 
   def cobble
