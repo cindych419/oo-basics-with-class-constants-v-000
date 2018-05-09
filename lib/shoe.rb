@@ -15,4 +15,7 @@ BRANDS = []
     puts "Your shoe is as good as new!"
   end
 
+def clear
+  self.BRANDS.size?=3
+end 
 end
